@@ -1,0 +1,25 @@
+{
+  "UserInfo": [
+  {
+    "UserId": "0",
+    "FirstName": "dhafer",
+    "PlayerDesc": "Inro VR Development",
+    "MaxGold": "523",
+    "Team": "red"
+  },
+  {
+    "UserId": "1",
+    "FirstName": "Ali",
+    "PlayerDesc": "Like Games",
+    "MaxGold": "23",
+    "Team": "red"
+  },
+  {
+    "UserId": "2",
+    "FirstName": "same",
+    "PlayerDesc": "Like Games",
+    "MaxGold": "623",
+    "Team": "red"
+  }
+  ]
+}
